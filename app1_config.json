@@ -2,15 +2,19 @@
   "adsData": {
     "updateDate": "2026-04-09 10:40:00",
     "testMode": true,
-    "adsEnabled": true,
-    "bannerEnabled": true,
-    "rewardedInterstitialEnabled": false,
-    "rewardedInterstitialInterval": 3
+    "enable": {
+      "ads": true,
+      "banner": true,
+      "rewardedInterstitial": false
+    },
+    "interval": {
+      "rewardedInterstitial": 3
+    }
   },
   "allStopsData": {
     "updateDate": "2026-03-17 00:00:00",
     "url": "https://data.ibb.gov.tr/dataset/8540e256-6df5-4719-85bc-e64e91508ede/resource/2299bc82-983b-4bdf-8520-5cef8c555e29/download/stops.csv",
-    "indexes": {
+    "index": {
       "stop_code": 1,
       "stop_name": 2,
       "stop_desc": 3,
