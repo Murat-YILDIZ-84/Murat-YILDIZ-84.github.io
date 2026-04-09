@@ -11,7 +11,7 @@
     },
     "convert": {
       "stop_lat": true,
-      "stop_lon": true,
+      "stop_lon": true
     }
   }
 }
