@@ -1,6 +1,7 @@
 {
   "adsData": {
     "updateDate": "2026-04-09 10:40:00",
+    "testMode": true,
     "adsEnabled": true,
     "bannerEnabled": true,
     "rewardedInterstitialEnabled": false,
