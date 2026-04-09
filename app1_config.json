@@ -3,7 +3,7 @@
     "updateDate": "2026-04-09 10:40:00",
     "adsEnabled": true,
     "bannerEnabled": true,
-    "rewardedInterstitialEnabled": true,
+    "rewardedInterstitialEnabled": false,
     "rewardedInterstitialInterval": 3
   },
   "allStopsData": {
