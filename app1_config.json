@@ -3,7 +3,7 @@
     "updateDate": "2026-04-09 10:40:00",
     "testMode": true,
     "enable": {
-      "ads": true,
+      "ads": false,
       "banner": true,
       "rewardedInterstitial": false
     },
