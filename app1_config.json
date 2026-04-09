@@ -7,7 +7,7 @@
       "stop_name": 2,
       "stop_desc": 3,
       "stop_lat": 4,
-      "stop_lon": 5,
+      "stop_lon": 5
     },
     "convert": {
       "stop_lat": true,
