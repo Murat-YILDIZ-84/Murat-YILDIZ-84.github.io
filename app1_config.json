@@ -1,8 +1,8 @@
 {
   "adsData": {
     "updateDate": "2026-04-09 10:40:00",
-    "adsEnabled": true,
-    "bannerEnabled": false
+    "adsEnabled": false,
+    "bannerEnabled": true
   },
   "allStopsData": {
     "updateDate": "2026-03-17 00:00:00",
