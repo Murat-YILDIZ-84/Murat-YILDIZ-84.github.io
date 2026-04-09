@@ -3,8 +3,8 @@
     "updateDate": "2026-04-09 10:40:00",
     "testMode": true,
     "enable": {
-      "ads": false,
-      "banner": true,
+      "ads": true,
+      "banner": false,
       "rewardedInterstitial": false
     },
     "interval": {
