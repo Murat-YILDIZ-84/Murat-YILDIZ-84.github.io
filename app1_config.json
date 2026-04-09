@@ -1,4 +1,6 @@
-{
-  "updateDate": "2026-04-09 09:11:22",
-  "allStopsDataUrl": "https://data.ibb.gov.tr/dataset/8540e256-6df5-4719-85bc-e64e91508ede/resource/2299bc82-983b-4bdf-8520-5cef8c555e29/download/stops.csv",
-}
+[
+  {
+    "updateDate": "2026-04-09 09:11:22",
+    "allStopsDataUrl": "https://data.ibb.gov.tr/dataset/8540e256-6df5-4719-85bc-e64e91508ede/resource/2299bc82-983b-4bdf-8520-5cef8c555e29/download/stops.csv",
+  }
+]
