@@ -2,7 +2,7 @@
   "adsData": {
     "updateDate": "2026-04-24 11:42:00",
     "testMode": true,
-    "enable": true
-    "availableVersions": ["1.0.0"],
+    "enable": true,
+    "availableVersions": ["1.0.0"]
   }
 }
