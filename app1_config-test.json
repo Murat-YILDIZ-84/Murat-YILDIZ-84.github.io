@@ -7,6 +7,6 @@
     "interstitialEnabled": false,
     "interstitialMax": 4,
     "rewardedInterstitialEnabled": false,
-    "rewardedInterstitialMax": 1
+    "rewardedInterstitialInterval": 1
   }
 }
