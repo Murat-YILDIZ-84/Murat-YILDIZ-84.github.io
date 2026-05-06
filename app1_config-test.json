@@ -5,7 +5,7 @@
     "testMode": true,
     "bannerEnabled": false,
     "interstitialEnabled": false,
-    "interstitialMax": 4,
+    "interstitialMax": 3,
     "rewardedInterstitialEnabled": false
   }
 }
