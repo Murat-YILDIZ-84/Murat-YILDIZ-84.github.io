@@ -5,7 +5,7 @@
     "updateDate": "2026-05-13 11:30:00",
     "testMode": true,
     "bannerEnabled": true,
-    "interstitialEnabled": true,
+    "interstitialEnabled": false,
     "interstitialMax": 3,
     "rewardedInterstitialEnabled": false,
     "rewardedInterstitialInterval": 2
