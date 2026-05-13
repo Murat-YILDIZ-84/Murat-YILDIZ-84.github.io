@@ -4,7 +4,7 @@
     "enable": false,
     "updateDate": "2026-05-13 16:27:00",
     "testMode": true,
-    "bannerEnabled": false,
+    "bannerEnabled": true,
     "interstitialEnabled": false,
     "interstitialMax": 3,
     "rewardedInterstitialEnabled": false,
