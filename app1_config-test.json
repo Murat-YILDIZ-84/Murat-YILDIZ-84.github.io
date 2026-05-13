@@ -6,7 +6,7 @@
     "testMode": true,
     "bannerEnabled": true,
     "interstitialEnabled": true,
-    "interstitialMax": 3,
+    "interstitialMax": 4,
     "rewardedInterstitialEnabled": true,
     "rewardedInterstitialInterval": 2
   }
