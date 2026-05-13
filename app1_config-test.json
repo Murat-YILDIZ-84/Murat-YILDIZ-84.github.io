@@ -4,10 +4,10 @@
     "enable": false,
     "updateDate": "2026-05-06 18:00:00",
     "testMode": true,
-    "bannerEnabled": true,
-    "interstitialEnabled": true,
+    "bannerEnabled": false,
+    "interstitialEnabled": false,
     "interstitialMax": 4,
-    "rewardedInterstitialEnabled": true,
+    "rewardedInterstitialEnabled": false,
     "rewardedInterstitialInterval": 2
   }
 }
