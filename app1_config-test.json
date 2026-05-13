@@ -7,7 +7,7 @@
     "bannerEnabled": false,
     "interstitialEnabled": false,
     "interstitialMax": 4,
-    "rewardedInterstitialEnabled": false,
+    "rewardedInterstitialEnabled": true,
     "rewardedInterstitialInterval": 2
   }
 }
