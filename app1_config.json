@@ -7,7 +7,7 @@
     "bannerEnabled": true,
     "appOpenEnabled": true,
     "interstitialEnabled": true,
-    "interstitialMax": 5,
+    "interstitialMax": 4,
     "rewardedInterstitialEnabled": false,
     "rewardedInterstitialInterval": 2
   }
