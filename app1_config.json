@@ -2,11 +2,11 @@
   "adsData": {
     "availableVersions": ["1.0.0", "1.0.1"],
     "enable": false,
-    "updateDate": "2026-05-16 11:45:00",
+    "updateDate": "2026-05-18 23:13:00",
     "testMode": false,
     "bannerEnabled": true,
-    "appOpenEnabled": true,
-    "interstitialEnabled": true,
+    "appOpenEnabled": false,
+    "interstitialEnabled": false,
     "interstitialMax": 4,
     "rewardedInterstitialEnabled": false,
     "rewardedInterstitialInterval": 2
