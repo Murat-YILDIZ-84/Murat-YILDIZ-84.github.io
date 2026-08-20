@@ -2,8 +2,8 @@
   "adsData": {
     "availableVersions": ["1.0.0", "1.0.1"],
     "enable": true,
-    "updateDate": "2026-08-19 13:41:00",
-    "testMode": true,
+    "updateDate": "2026-08-20 23:38:00",
+    "testMode": false,
     "bannerEnabled": true,
     "appOpenEnabled": true,
     "interstitialEnabled": true,
