@@ -5,6 +5,6 @@
     "bannerEnabled": true,
     "appOpenEnabled": true,
     "interstitialEnabled": true,
-    "rewardedInterstitialEnabled": true,
+    "rewardedInterstitialEnabled": true
   }
 }
