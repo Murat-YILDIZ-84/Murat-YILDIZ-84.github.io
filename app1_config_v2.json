@@ -2,7 +2,7 @@
   "updateDate": "2026-09-29 22:53:00",
   "adsData": {
     "testMode": true,
-    "adsOffTime": 55,
+    "adsOffTime": 100,
     "bannerEnabled": true,
     "appOpenEnabled": true,
     "interstitialEnabled": true,
