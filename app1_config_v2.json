@@ -1,0 +1,10 @@
+{
+  "updateDate": "2026-09-29 21:14:00",
+  "adsData": {
+    "testMode": true,
+    "bannerEnabled": true,
+    "appOpenEnabled": true,
+    "interstitialEnabled": true,
+    "rewardedInterstitialEnabled": true
+  }
+}
